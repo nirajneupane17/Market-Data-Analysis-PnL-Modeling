@@ -6,7 +6,11 @@ performance across 500 simulated trades, and factor decomposition
 (alpha/beta) vs SPY benchmark. Built on a USD 1M multi-asset portfolio
 across SPY, QQQ, TLT, GLD, and HYG spanning 2020–2024.
 
-![Market PnL Bloomberg Dashboard](results/market_pnl_bloomberg.gif)
+![Market Data Analysis & PnL Modeling — Summary Dashboard](results/dashboard_final_pro.png)
+
+---
+
+> **Animated Dashboard:** [View Bloomberg-style GIF](results/market_pnl_bloomberg.gif)  ·  [10-Second Video Walkthrough](results/market_pnl_video.mp4)
 
 ---
 
